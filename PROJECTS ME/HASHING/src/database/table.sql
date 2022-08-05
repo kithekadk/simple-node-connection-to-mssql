@@ -1,0 +1,1 @@
+create table createUser(id VARCHAR(80), email VARCHAR(200) UNIQUE, password VARCHAR(200))
